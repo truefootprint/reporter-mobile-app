@@ -2,7 +2,7 @@
   "expo": {
     "name": "reporter-mobile-app",
     "slug": "reporter-mobile-app",
-    "privacy": "public",
+    "privacy": "unlisted",
     "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
