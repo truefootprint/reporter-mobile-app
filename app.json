@@ -4,7 +4,7 @@
     "slug": "reporter-mobile-app",
     "privacy": "unlisted",
     "sdkVersion": "35.0.0",
-    "platforms": ["android"],
+    "platforms": ["android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "updates": { "fallbackToCacheTimeout": 0 },
