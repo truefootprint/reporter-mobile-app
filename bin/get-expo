@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mkdir -p tmp &&
+curl $(curl https://expo.io/--/api/v2/versions | jq -r .androidUrl) > tmp/Expo.apk
